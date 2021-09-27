@@ -1,0 +1,13 @@
+body { background-color: #848484;}
+#abajo {text-align:center;}
+#titulo1 {text-align: center;}
+h1  {text-align: center;}
+a:hover {background-color: black; font-size: 30px; font-family: cursive;}
+a:visited {color: red}
+button {background-color: red;}
+button:hover {background-color: yellow;}
+section {float: left;width: 48%; margin: 1%;border: 2px solid black;}
+footer {clear:both;}
+form {text-align: center;}
+.icono {position: fixed;top: 75%;right: 1%}
+a::before {content: "█";}
